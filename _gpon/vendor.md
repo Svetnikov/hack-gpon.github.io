@@ -56,5 +56,6 @@ Here is a list of the most popular Vendor IDs:
 | `ZTEG` | `5a544547` | ZTE                  |
 | `ZYWN` | `5a59574e` | Zyxel                |
 | `ZYXE` | `5a595845` | Zyxel                |
+| `OEMT` | `4F454D54` | ADC                  |
 
 {% include alert.html content="You can also help us with adding content to this site, you can find a button to edit on GitHub on each page." alert="Tip"  icon="svg-info" color="green" %}
